@@ -12,7 +12,7 @@
         <?php echo"<h1>PHP Syntax2</h1>";?>
 
         <?php  
-            $name ="Chananthon";
+            $name ="Jannalyn";
             echo "ชื่อ: " . $name;
         ?>
 

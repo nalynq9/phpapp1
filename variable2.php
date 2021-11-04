@@ -16,7 +16,7 @@
 ?>
 
 <?php
-    $firstName = "Chananthon";
-    $lastName = "Thanomngoen";
+    $firstName = "Jannalyn";
+    $lastName = "Chennawa";
     echo "$firstName $lastName"; 
 ?>
